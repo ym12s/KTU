@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Khanq\\Khanq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\controller\\kiemtradangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\controller\\kiemtradangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\model\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\model\\ketnoisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\view\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\view\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\view\\ucmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\view\\ucmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\view\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\view\\uclogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\view\\null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\view\\null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|d:\\.net\\khanq\\khanq\\khanq\\view\\ucmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81FF5880-A5C8-48EF-9132-CB350C0774E6}|Khanq\\Khanq.csproj|solutionrelative:khanq\\view\\ucmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KiemTraDangNhap.cs",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\Controller\\KiemTraDangNhap.cs",
+              "RelativeDocumentMoniker": "Khanq\\Controller\\KiemTraDangNhap.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\Controller\\KiemTraDangNhap.cs*",
+              "RelativeToolTip": "Khanq\\Controller\\KiemTraDangNhap.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:41:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UCMain.cs",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCMain.cs",
+              "RelativeDocumentMoniker": "Khanq\\View\\UCMain.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCMain.cs",
+              "RelativeToolTip": "Khanq\\View\\UCMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:37:53.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCLogin.cs",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCLogin.cs",
+              "RelativeDocumentMoniker": "Khanq\\View\\UCLogin.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCLogin.cs",
+              "RelativeToolTip": "Khanq\\View\\UCLogin.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:37:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UCMain.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCMain.cs",
+              "RelativeDocumentMoniker": "Khanq\\View\\UCMain.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCMain.cs [Design]",
+              "RelativeToolTip": "Khanq\\View\\UCMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:36:43.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCLogin.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCLogin.cs",
+              "RelativeDocumentMoniker": "Khanq\\View\\UCLogin.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\UCLogin.cs [Design]",
+              "RelativeToolTip": "Khanq\\View\\UCLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:36:42.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "null.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\null.cs",
+              "RelativeDocumentMoniker": "Khanq\\View\\null.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\View\\null.cs [Design]",
+              "RelativeToolTip": "Khanq\\View\\null.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:36:41.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ketnoiSQL.cs",
+              "DocumentMoniker": "D:\\.NET\\Khanq\\Khanq\\Khanq\\Model\\ketnoiSQL.cs",
+              "RelativeDocumentMoniker": "Khanq\\Model\\ketnoiSQL.cs",
+              "ToolTip": "D:\\.NET\\Khanq\\Khanq\\Khanq\\Model\\ketnoiSQL.cs",
+              "RelativeToolTip": "Khanq\\Model\\ketnoiSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:26:09.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

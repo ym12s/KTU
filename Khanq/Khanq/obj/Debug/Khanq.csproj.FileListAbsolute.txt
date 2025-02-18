@@ -1,0 +1,14 @@
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.csproj.AssemblyReference.cache
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.Properties.Resources.resources
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.View.UCLogin.resources
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.csproj.GenerateResource.cache
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.csproj.CoreCompileInputs.cache
+D:\.NET\Khanq\Khanq\Khanq\bin\Debug\Khanq.exe.config
+D:\.NET\Khanq\Khanq\Khanq\bin\Debug\Khanq.exe
+D:\.NET\Khanq\Khanq\Khanq\bin\Debug\Khanq.pdb
+D:\.NET\Khanq\Khanq\Khanq\bin\Debug\Khang.dll
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.View.null.resources
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.csproj.Up2Date
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.exe
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.pdb
+D:\.NET\Khanq\Khanq\Khanq\obj\Debug\Khanq.View.UCMain.resources
